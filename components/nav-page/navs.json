@@ -411,6 +411,12 @@
             "description":"虚拟信用卡，提供信用卡服务。",
             "icon":"/icons/wcard.ico",
             "link": "https://wildcard.com.cn/"
+        },
+        {
+            "name": "HappyApi",
+            "description":"Chatgpt API中转",
+            "icon":"https://ngedlktfticp.cloud.sealos.io/logo.png",
+            "link": "https://ngedlktfticp.cloud.sealos.io/"
         }
     ]
   },

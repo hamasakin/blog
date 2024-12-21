@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
-  title: "koitori777",
+  title: "hamasakin",
   outDir: "../dist",
   description:
     "A personal blog about programming, web development, and other stuff.",
